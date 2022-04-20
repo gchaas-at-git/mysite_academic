@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:mail@georg-haas.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -82,4 +82,4 @@ Combining these skills, I plan, manage and conduct challenging and innovative da
 I recently finished my doctorate and am about to decide in which direction my professional future should develop and which projects to tackle next.
 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Haas.pdf" "newtab" >}}CV{{< /staticref >}}.

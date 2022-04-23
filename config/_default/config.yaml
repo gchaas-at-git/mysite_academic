@@ -5,7 +5,7 @@
 
 title: Georg-Christoph Haas # Website name
 baseurl: 'https://georg-haas.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2022 Georg-Christoph Haas' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

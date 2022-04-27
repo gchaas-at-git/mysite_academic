@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Featured Publications
-subtitle: ""
+title: Selected Publications
+subtitle: "Find a full list of publications [here](./publication/)"
 
 content:
   # Page type to display. E.g. post, talk, publication...
